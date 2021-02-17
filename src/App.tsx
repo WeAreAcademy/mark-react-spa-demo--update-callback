@@ -29,8 +29,8 @@ function App() {
       <hr />
       {/* TODO: make buttons keep a count up */}
       <p>Current count: {count}</p>
-      <button>+ 1</button>
-      <button>+ 5</button>
+      <button>+ 1 to count</button>
+      <button>+ 5 to count</button>
     </div>
   );
 }
